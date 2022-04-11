@@ -1,0 +1,16 @@
+C:\Users\ROBERTO ZAPATA\Documents\backend\BackendFirstTest\BackendFirstTest\bin\Debug\net5.0\BackendFirstTest.exe
+C:\Users\ROBERTO ZAPATA\Documents\backend\BackendFirstTest\BackendFirstTest\bin\Debug\net5.0\BackendFirstTest.deps.json
+C:\Users\ROBERTO ZAPATA\Documents\backend\BackendFirstTest\BackendFirstTest\bin\Debug\net5.0\BackendFirstTest.runtimeconfig.json
+C:\Users\ROBERTO ZAPATA\Documents\backend\BackendFirstTest\BackendFirstTest\bin\Debug\net5.0\BackendFirstTest.runtimeconfig.dev.json
+C:\Users\ROBERTO ZAPATA\Documents\backend\BackendFirstTest\BackendFirstTest\bin\Debug\net5.0\BackendFirstTest.dll
+C:\Users\ROBERTO ZAPATA\Documents\backend\BackendFirstTest\BackendFirstTest\bin\Debug\net5.0\ref\BackendFirstTest.dll
+C:\Users\ROBERTO ZAPATA\Documents\backend\BackendFirstTest\BackendFirstTest\bin\Debug\net5.0\BackendFirstTest.pdb
+C:\Users\ROBERTO ZAPATA\Documents\backend\BackendFirstTest\BackendFirstTest\obj\Debug\net5.0\BackendFirstTest.csproj.AssemblyReference.cache
+C:\Users\ROBERTO ZAPATA\Documents\backend\BackendFirstTest\BackendFirstTest\obj\Debug\net5.0\BackendFirstTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROBERTO ZAPATA\Documents\backend\BackendFirstTest\BackendFirstTest\obj\Debug\net5.0\BackendFirstTest.AssemblyInfoInputs.cache
+C:\Users\ROBERTO ZAPATA\Documents\backend\BackendFirstTest\BackendFirstTest\obj\Debug\net5.0\BackendFirstTest.AssemblyInfo.cs
+C:\Users\ROBERTO ZAPATA\Documents\backend\BackendFirstTest\BackendFirstTest\obj\Debug\net5.0\BackendFirstTest.csproj.CoreCompileInputs.cache
+C:\Users\ROBERTO ZAPATA\Documents\backend\BackendFirstTest\BackendFirstTest\obj\Debug\net5.0\BackendFirstTest.dll
+C:\Users\ROBERTO ZAPATA\Documents\backend\BackendFirstTest\BackendFirstTest\obj\Debug\net5.0\ref\BackendFirstTest.dll
+C:\Users\ROBERTO ZAPATA\Documents\backend\BackendFirstTest\BackendFirstTest\obj\Debug\net5.0\BackendFirstTest.pdb
+C:\Users\ROBERTO ZAPATA\Documents\backend\BackendFirstTest\BackendFirstTest\obj\Debug\net5.0\BackendFirstTest.genruntimeconfig.cache
